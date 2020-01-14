@@ -22,7 +22,7 @@ from sklearn.preprocessing import scale
 # PCA 
 
 # load dataset into Pandas DataFrame
-df = pd.read_csv('Data/Structures/archive_structure_data.csv', names=['Study Name','Craft Name','Non-Secondary Structures Mass','Fuel/Oxidizer Tanks Mass','Total Dry Mass','Total Wet Mass','Prop Mass','Surface Area','Volume'])
+df = pd.read_csv('archive_structure_data_cleaned.csv', names=['Study Name','Craft Name','Non-Secondary Structures Mass','Fuel/Oxidizer Tanks Mass','Total Dry Mass','Total Wet Mass','Prop Mass','Surface Area','Volume'])
 features = ['Fuel/Oxidizer Tanks Mass','Total Dry Mass','Total Wet Mass','Prop Mass','Surface Area','Volume']
 
 
