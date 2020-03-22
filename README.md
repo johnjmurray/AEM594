@@ -1,5 +1,5 @@
 # AEM594
-Principal component regression for structural mass predictions of spacecraft
+Principal component regression for structural mass predictions of spacecraft\n
 Culminating Research Experience as part of the M.S. in Aerospace Engineering and Mechanics
 The University of Alabama
 
